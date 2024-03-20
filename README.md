@@ -1,6 +1,7 @@
 # GarminBlendWatchFace
-Garmin watchface example that shows color interpolation.
-![image](https://github.com/MrJacquers/GarminBlendWatchFace/assets/84329887/ff6a35c4-bf7f-4164-a172-2acf6f544b80)
+Garmin watchface example that shows color interpolation. Uses RGB interpolation, but with the ability to specify a middle color to imitate HSV style colorspace.
+
+![image](https://github.com/MrJacquers/GarminBlendWatchFace/assets/84329887/33c9c8de-bb27-428c-ab0b-d3df4d2cfa37)
 
 ![image](https://github.com/MrJacquers/GarminBlendWatchFace/assets/84329887/66bfe60f-1b23-4f36-aa13-a01ce52c49f6)
 
