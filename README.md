@@ -11,6 +11,8 @@ Hopefully someone will find this code useful and come up with some interesting u
 
 ![image](https://github.com/MrJacquers/GarminBlendWatchFace/assets/84329887/4263e8bf-a081-43a6-84d4-b2b8d7d505fa)
 
-This site is useful to see how different colorspaces interpolate and finding a middle color:https://colordesigner.io/gradient-generator
+This site is useful to see how different colorspaces interpolate and finding a middle color: https://colordesigner.io/gradient-generator
+
+![image](https://github.com/MrJacquers/GarminBlendWatchFace/assets/84329887/c433d829-b662-47bf-8398-0cf4a75d4826)
 
 ![image](https://github.com/MrJacquers/GarminBlendWatchFace/assets/84329887/a50b3c5b-1da0-4b5f-a39f-d69466f6107d)
