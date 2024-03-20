@@ -1,0 +1,5 @@
+<fonts>
+    <font id="id_raj_striped" filename="raj_striped.fnt" antialias="true" filter="0123456789:" />
+    <font id="id_raj_outline" filename="raj_outline.fnt" antialias="true" filter="0123456789:" />
+    <font id="id_monofonto_outline" filename="monofonto_outline.fnt" antialias="true" filter="0123456789:" />
+</fonts>

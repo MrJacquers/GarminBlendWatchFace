@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="red" />
+      <stop offset="100%" stop-color="yellow" />
+    </linearGradient>
+  </defs>
+  <rect width="416" height="416" x="0" y="0" rx="0" ry="0" fill="url(#grad1)" />
+</svg>
